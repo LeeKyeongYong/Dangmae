@@ -32,6 +32,6 @@ jenkins
 
 타일즈 https://attic.apache.org/projects/tiles.html
 
-개발 기능일정 2022. 08. 01 ~ 2022. 08. 08
+개발 기능일정 2022. 08. 01 ~ 2022. 09. 31
 
 화면구성
